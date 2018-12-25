@@ -1,21 +1,13 @@
 # mpvue_pro
-
-> A Mpvue project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### 安装依赖
+    npm install
+### 启动项目
+    1. 先启动服务器: 
+      1) 服务器根目录下： npm start
+      2) 服务器根目录下： node server.js
+    2. 启动当前项目
+      1) 项目根目录下: npm start
+### 打包项目
+    npm run build
+### 服务器
+    mpvue_server目录
